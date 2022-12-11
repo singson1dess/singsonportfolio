@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/singsonportfolio/static/css/main.a388b5af.css",
-    "main.js": "/singsonportfolio/static/js/main.d4d184aa.js",
+    "main.js": "/singsonportfolio/static/js/main.70e668f2.js",
     "static/media/virtual graduation.png": "/singsonportfolio/static/media/virtual graduation.752c5febd963cd86c09b.png",
     "static/media/HeroImage.png": "/singsonportfolio/static/media/HeroImage.a236d6e1ec2ef7a414a2.png",
     "static/media/Skill set.png": "/singsonportfolio/static/media/Skill set.eb4e8e9f0a34ac430808.png",
@@ -15,10 +15,10 @@
     "static/media/kmagrawal.jpg": "/singsonportfolio/static/media/kmagrawal.fcc4c6226d64f64f8519.jpg",
     "index.html": "/singsonportfolio/index.html",
     "main.a388b5af.css.map": "/singsonportfolio/static/css/main.a388b5af.css.map",
-    "main.d4d184aa.js.map": "/singsonportfolio/static/js/main.d4d184aa.js.map"
+    "main.70e668f2.js.map": "/singsonportfolio/static/js/main.70e668f2.js.map"
   },
   "entrypoints": [
     "static/css/main.a388b5af.css",
-    "static/js/main.d4d184aa.js"
+    "static/js/main.70e668f2.js"
   ]
 }
